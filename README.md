@@ -62,9 +62,16 @@
 5 Set up database:
 - **Create a new MySQL database.
 - **Update your .env file with database credentials.
+  
 6. Run migrations:
   ```bash
   php artisan migrate
-7. Run migrations:
-  ```bash
-  Start development server:
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit a pull request. 🚀
+
+📜 License
+This project is open-sourced under the MIT license.
+
+
