@@ -38,7 +38,7 @@
 - **Frontend:** Bootstrap 5, Blade Templates
 - **Database:** MySQL
 - **PDF Generator:** DomPDF Package
-- **Authentication:** Laravel Breeze (if applicable)
+- **Authentication:** Laravel Breeze
 
 ---
 
